@@ -10,7 +10,6 @@ This is a simple Python script that uses the Philips Hue API to control a traffi
   ```
   HUE_IP=YOUR_HUE_IP
   HUE_TOKEN=YOUR_HUE_TOKEN
-
   ```
 
 - Run the script with `python main.py`
